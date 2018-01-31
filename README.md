@@ -1,3 +1,5 @@
+# Analysis of the King James Bible
+
 This analysis uses the tidy approach elaborated in 'Text Mining with R' by Julia Silge and David Robinson to explore the King James Bible, employing techniques such as term frequency analysis, sentiment analysis and topic modelling to compare the Old and New Testaments and the books therein.
 
 ```{r, echo=FALSE, include = FALSE}
