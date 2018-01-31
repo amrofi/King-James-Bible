@@ -9,9 +9,9 @@ This analysis uses the tidy approach elaborated in 'Text Mining with R' by Julia
 Books of the King James Bible by word count
 -------------------------------------------
 
-![](README_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](/unnamed-chunk-2-1.png)
 
 Word Frequencies: Old Testament vs New Testament
 ------------------------------------------------
 
-![](README_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](/unnamed-chunk-4-1.png)
